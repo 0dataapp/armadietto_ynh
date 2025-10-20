@@ -48,7 +48,7 @@ ram.runtime = "100M"
 [resources]
     [resources.sources.main]
     # NOT used in install script, only for autoupdate
-    url = "https://github.com/rosano/armadietto/archive/refs/tags/v0.6.0.tar.gz"
+    url = "https://github.com/rosano/armadietto/archive/54a0110ceb18f406e91dd8f53e30301a94f0aaa3.zip"
     sha256 = "8812fcd2271c00a6f23be929683427ed62ef1e5811668988f65d5896e888b72e"
     prefetch = false
     autoupdate.strategy = "latest_github_release"
