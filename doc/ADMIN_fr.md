@@ -1,7 +1,7 @@
 ### :warning: WARNING
 Le paquet Armadietto_ynh est toujours en cours de développement, vous devez donc vous attendre à d'éventuels changements non documentés avant qu'il ne soit qualifié de stable.
 
-### :information_source: Considérations sur la sécurité de [Armadietto](https://github.com/remotestorage/armadietto/) :
+### :information_source: Considérations sur la sécurité de [Armadietto](https://github.com/rosano/armadietto/) :
 
 > #### **Sécurité du stockage**
 > 

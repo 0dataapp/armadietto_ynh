@@ -1,4 +1,4 @@
-[Armadietto](https://github.com/remotestorage/armadietto/) est un serveur [remoteStorage](https://remotestorage.io) écrit pour Node.js.
+[Armadietto](https://github.com/rosano/armadietto/) est un serveur [remoteStorage](https://remotestorage.io) écrit pour Node.js.
 
 Armadietto est maintenu par la communauté remoteStorage, ([IRC](https://web.libera.chat/#remotestorage), [forums](https://community.remotestorage.io/)).
 

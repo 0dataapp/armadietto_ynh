@@ -22,7 +22,7 @@ RemoteStorage server running as a nodejs web service with systemd
 
 [![Automatic tests level](https://apps.yunohost.org/badge/cilevel/armadietto)](https://ci-apps.yunohost.org/ci/apps/armadietto/)
 
-🛠️ Upstream Armadietto repository: <https://github.com/remotestorage/armadietto>
+🛠️ Upstream Armadietto repository: <https://github.com/rosano/armadietto>
 
 Pull request are welcome and should target the [`testing` branch](https://github.com/YunoHost-Apps/armadietto_ynh/tree/testing).
 
