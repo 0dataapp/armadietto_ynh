@@ -23,7 +23,7 @@ ynh_use_nodejs
 ynh_script_progression --message="Install armadietto with npm..." --weight=1
 
 pushd "$install_dir"
-    ynh_exec_warn_less $ynh_npm -g i armadietto@$(ynh_app_upstream_version)
+    ynh_exec_warn_less $ynh_npm -g i rosano/armadietto#54a0110ceb18f406e91dd8f53e30301a94f0aaa3
 popd
 
 chmod 750 "$install_dir"
